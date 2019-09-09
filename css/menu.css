@@ -1,0 +1,8 @@
+.menu-btn {
+  position: absolute;
+  z-index: 3;
+  top: 35px;
+  right: 35px;
+  cursor: pointer;
+}
+/*# sourceMappingURL=menu.css.map */
