@@ -1,0 +1,23 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "my portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jxboi/My-Portfolio.git"
+  },
+  "author": "jia xing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jxboi/My-Portfolio/issues"
+  },
+  "homepage": "https://jxboi.github.io/my_portfolio",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
